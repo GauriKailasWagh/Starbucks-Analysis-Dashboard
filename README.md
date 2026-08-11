@@ -8,11 +8,11 @@ The project uses interactive slicers, KPI cards, charts, and visual analytics to
 
 The main objectives of this project are:
 
-•	Analyze Starbucks beverage nutritional information.
-
-•	Compare beverages based on calories, sugar, caffeine, and protein. 
-•	Identify beverages with the highest caffeine content. 
-•	Analyze average calories across beverage categories. 
-•	Understand the distribution of different beverage categories. 
-•	Create an interactive and user-friendly Power BI dashboard. 
-•	Present complex data in a simple visual format. 
+- Analyze Starbucks beverage nutritional information.
+- Compare average calories across beverage categories.
+- Analyze average caffeine levels by beverage category.
+- Identify the Top 5 highest-caffeine beverages.
+- Analyze beverage category distribution.
+- Compare sugar and calorie values.
+- Provide interactive filtering for better analysis.
+- Present complex data through simple and interactive Power BI visuals.
