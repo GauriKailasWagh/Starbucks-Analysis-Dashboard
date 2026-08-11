@@ -86,3 +86,21 @@ Allows users to filter and explore the data using interactive slicers.
 - **Data Transformation**
 - **Data Visualization**
 - **Data Analysis**
+## 🔄 Data Analysis Workflow
+
+```text
+Data Collection
+      ↓
+Data Cleaning
+      ↓
+Data Transformation
+      ↓
+Data Modeling
+      ↓
+DAX Calculations
+      ↓
+Data Visualization
+      ↓
+Interactive Dashboard
+      ↓
+Insights & Analysis
