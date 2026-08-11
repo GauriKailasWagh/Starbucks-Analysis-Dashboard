@@ -16,3 +16,13 @@ The main objectives of this project are:
 - Compare sugar and calorie values.
 - Provide interactive filtering for better analysis.
 - Present complex data through simple and interactive Power BI visuals.
+## 📊 Dashboard KPIs
+
+The dashboard displays the following key performance indicators:
+
+| KPI | Value |
+|---|---:|
+| 🥤 Total Beverages | 33 |
+| 🍬 Average Sugar | 33.02 |
+| 🔥 Average Calories | 194.30 |
+| ☕ Average Caffeine | 81 |
