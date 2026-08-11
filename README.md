@@ -26,3 +26,63 @@ The dashboard displays the following key performance indicators:
 | 🍬 Average Sugar | 33.02 |
 | 🔥 Average Calories | 194.30 |
 | ☕ Average Caffeine | 81 |
+## 📈 Dashboard Visualizations
+
+### 1. Average Calories by Beverage Category
+Shows the average calorie content across different Starbucks beverage categories.
+
+### 2. Starbucks Global Presence
+Provides a comparative view of values across the selected categories.
+
+### 3. Beverage Category Distribution
+A donut chart showing the distribution of beverages across different categories.
+
+### 4. Average Caffeine by Category
+Compares the average caffeine content across Starbucks beverage categories.
+
+### 5. Top 5 Highest Caffeine Beverages
+Highlights the five beverages with the highest caffeine content.
+
+### 6. Interactive Filters
+The dashboard includes filters for:
+
+- Protein Range
+- Beverage Preparation
+
+These filters allow users to interact with the dashboard and analyze specific beverage groups.
+## 🧩 Project Modules
+
+### 🔹 1. KPI Analysis
+Provides an overview of important beverage metrics such as:
+
+- Total Beverage Count
+- Average Sugar
+- Average Calories
+- Average Caffeine
+
+### 🔹 2. Nutritional Analysis
+Analyzes important nutritional characteristics including:
+
+- Calories
+- Sugar
+- Caffeine
+- Protein
+
+### 🔹 3. Beverage Category Analysis
+Compares beverages across different categories and identifies differences in their nutritional values.
+
+### 🔹 4. Caffeine Analysis
+Analyzes caffeine content and identifies beverages with the highest caffeine levels.
+
+### 🔹 5. Interactive Dashboard
+Allows users to filter and explore the data using interactive slicers.
+## 🛠️ Tools & Technologies
+
+- **Microsoft Power BI**
+- **Power Query**
+- **DAX**
+- **Microsoft Excel / CSV**
+- **Data Cleaning**
+- **Data Transformation**
+- **Data Visualization**
+- **Data Analysis**
